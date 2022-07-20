@@ -1,4 +1,4 @@
-# wildcard [![Test](https://github.com/vikpe/wildcard/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/vikpe/wildcard/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/vikpe/wildcard/branch/main/graph/badge.svg)](https://codecov.io/gh/vikpe/wildcard)
+# wildcard [![Test](https://github.com/vikpe/wildcard/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/vikpe/wildcard/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/vikpe/wildcard/branch/main/graph/badge.svg)](https://codecov.io/gh/vikpe/wildcard) [![Go Report Card](https://goreportcard.com/badge/github.com/vikpe/wildcard)](https://goreportcard.com/report/github.com/vikpe/wildcard)
 
 > Wildcard pattern matching in Go (Golang)
 
