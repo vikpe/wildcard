@@ -94,7 +94,7 @@ func TestMatch(t *testing.T) {
 			expect:   true,
 		},
 
-		// mutliple wildcards
+		// multiple wildcards
 		{
 			pattern:  "*a*",
 			haystack: "alphabeta",
